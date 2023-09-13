@@ -1,0 +1,10 @@
+.board {
+    display: grid;
+    grid-template-columns: 80px 80px 80px;
+    grid-template-rows: 80px 80px 80px;
+}
+
+.square {
+    /* height: 10em;
+    width: 10em; */
+}
